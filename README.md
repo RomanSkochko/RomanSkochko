@@ -32,7 +32,7 @@ I’m a Java Software Engineer with hands-on experience in building REST APIs us
 ---
 
 📫 Feel free to connect:  
-[GitHub](https://github.com/RomanSkochko) • [LinkedIn](https://www.linkedin.com/in/roman-skochko/) • [Telegram](https://t.me/R_S_Dev)
+[LinkedIn](https://www.linkedin.com/in/roman-skochko/)   [Telegram](https://t.me/R_S_Dev)
 
 ---
 
