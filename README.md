@@ -1,6 +1,6 @@
 ## Greetings, traveler! 🌍 I'm Roman
 
-**Java Software Engineer — crafting scalable backend systems and delivering business-driven solutions.**
+**Java Software Engineer**
 
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&color=007396)
 ![Spring Boot](https://img.shields.io/badge/Framework-Spring_Boot-informational?style=flat&logo=spring-boot&color=6DB33F)
