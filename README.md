@@ -10,7 +10,7 @@
 
 ---
 
-🔧 **About me**  
+👨‍💻 **About me**  
 I’m a Java Software Engineer with hands-on experience in building REST APIs using Java, Spring Boot, Hibernate, PostgreSQL, Docker, and other modern backend tools
 
 ---
@@ -24,10 +24,10 @@ I’m a Java Software Engineer with hands-on experience in building REST APIs us
 
 ### 🌱 What drives me
 
-1. **Before the code, there is the blueprint.** I believe that clear thinking and system design are the true spells behind stable software.  
-2. **Chess sharpens the architect’s mind.** It teaches patience, foresight, and how to see what others miss.  
+- **Before the code, there is the blueprint.** I believe that clear thinking and system design are the true spells behind stable software.  
+- **Chess sharpens the architect’s mind.** It teaches patience, foresight, and how to see what others miss.  
    *Care to learn how to win before the game even begins?*  
-3. **Wandering alone is fine, but building together is better.** Let’s connect — every conversation is a chance to create something meaningful.
+- **Wandering alone is fine, but building together is better.** Let’s connect — every conversation is a chance to create something meaningful.
 
 ---
 
